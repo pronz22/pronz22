@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pronz22
+- 👋 Hi, I’m Force/Crypto Grindr.
 - 👀 I’m interested in Smart Contracts, DApps, Distribution and Security
 - 🌱 I’m currently learning Solidity, Phyton, and other blockchain language.
 - 💞️ I’m looking to collaborate on any creative person whose passion is to expand the influence of blockchain technology and gamefi
